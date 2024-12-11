@@ -5,6 +5,7 @@
 #include <stdexcept>
 #include "BSNode.h"
 
+
 template <typename T> 
 class BSTree {
 	    private:
